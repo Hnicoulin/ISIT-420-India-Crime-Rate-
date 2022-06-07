@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>CD Order Data</title>
+    <link rel="stylesheet" text="text/css" href="css/site.css" />
+</head>
+<body>
+    <div>
+        <h1>Cd Orders Data</h1>
+        <h2>Add a new order</h2>
+        <div>
+            <select id="storeSelect"></select><select id="salesPersonSelect"></select><select id="cdSelect"></select> <input type="text" placeholder="price" id="howmany" size="5" /><input type="button" value="Add Order" onclick="addEvent();" />
+        </div>
+    </div>
+
+    <div>
+        <h2>Get total sales for store</h2>
+        <input type="button" value="Get Store Data" onclick="getTotal();" />
+        <p id="totalDescription" />
+    </div>
+
+    <br /><br /><br /><br />
+
+    <div>
+        <h2>How many CDs that cost more than $13 did each store sell?</h2>
+        <input type="button" value="Get Data" onclick="getStoreData();" />
+        <p id="totalStoreDataDescription" />
+    </div>
+
+    <script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-2.0.3.min.js"></script>
+    <script src="/js/site.js"></script>
+
+
+</body>
+</html>
