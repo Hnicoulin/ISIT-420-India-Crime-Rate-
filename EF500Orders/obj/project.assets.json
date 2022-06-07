@@ -1860,19 +1860,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\johns\\.nuget\\packages\\": {}
+    "C:\\Users\\nicou\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\johns\\Documents\\bc\\isit420\\week8\\hw8-aspapiEF\\EF500Orders\\EF500Orders\\EF500Orders.csproj",
+      "projectUniqueName": "C:\\Users\\nicou\\OneDrive\\Documents\\School\\Spring 2021\\ISIT 420\\New folder\\ISIT-420-India-Crime-Rate-\\EF500Orders\\EF500Orders.csproj",
       "projectName": "EF500Orders",
-      "projectPath": "C:\\Users\\johns\\Documents\\bc\\isit420\\week8\\hw8-aspapiEF\\EF500Orders\\EF500Orders\\EF500Orders.csproj",
-      "packagesPath": "C:\\Users\\johns\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\johns\\Documents\\bc\\isit420\\week8\\hw8-aspapiEF\\EF500Orders\\EF500Orders\\obj\\",
+      "projectPath": "C:\\Users\\nicou\\OneDrive\\Documents\\School\\Spring 2021\\ISIT 420\\New folder\\ISIT-420-India-Crime-Rate-\\EF500Orders\\EF500Orders.csproj",
+      "packagesPath": "C:\\Users\\nicou\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\nicou\\OneDrive\\Documents\\School\\Spring 2021\\ISIT 420\\New folder\\ISIT-420-India-Crime-Rate-\\EF500Orders\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\johns\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\nicou\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1933,7 +1933,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.105\\RuntimeIdentifierGraph.json"
       }
     }
   }
